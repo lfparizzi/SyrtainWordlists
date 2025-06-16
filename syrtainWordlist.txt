@@ -5,6 +5,8 @@
 robots.txt
 .secret
 secret
+flag
+flag.txt
 
 # JBROFUZZ Lines:
 !
