@@ -1,39 +1,12 @@
+# Special characters will be encoded by JBroFuzz. As an example, a line entry
+# of 'li ve' will become 'li%20ve'
+# Custom Syrtain lines:
 .git
 robots.txt
 .secret
 secret
-# JBroFuzz Directory Enumeration Definitions for version 0.5
-#
-# -----------------------------------------------------------------------------
-# Pre conditions
-# -----------------------------------------------------------------------------
-#
-# Maximum number of lines		50000
-# Maximum line length			256
-#
-# -----------------------------------------------------------------------------
-# A bit of (directory enumeration) theory 
-# -----------------------------------------------------------------------------
-#
-# Web server directory enumeration represents the process by which a low 
-# skilled attacker can identify existing directories present on the server.
-# 
-# JBroFuzz achieves this by checking for the existence of the following 
-# directories.
-#
-# Any line in this file is regarded as a comment if it begins with a '#' (yes, 
-# you can brake JBroFuzz if you fuzz this file!)
-# 
-# Special characters will be encoded by JBroFuzz. As an example, a line entry
-# of 'li ve' will become 'li%20ve'
-#
-# Special thanks go to james (at) uncon sittinglittleduck com 
-# Continue to look for directories out there!
-#
-# Copyright (C) 2007 subere (at) uncon org
-# Version 0.5
-#
 
+# JBROFUZZ Lines:
 !
 !!
 "
@@ -16194,7 +16167,7 @@ ESP
 esp
 esp-1
 esp-syn
-Español
+EspaÃ±ol
 espaceur
 espacio
 espana
@@ -18959,7 +18932,7 @@ franken
 frankenstein
 frankfurt
 franklin
-Français
+FranÃ§ais
 fraps
 Fraps
 fraser
@@ -41596,7 +41569,7 @@ psp7
 pspr
 psprelements
 pss
-Página_principal
+PÃ¡gina_principal
 psst
 PST
 pst
