@@ -11,7 +11,8 @@ sitemap.xml
 sitemap.aspx
 cgi-bin
 cgi-bin/admin.cgi
-
+login
+login.php
 
 # JBROFUZZ Lines:
 !
