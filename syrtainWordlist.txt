@@ -16,6 +16,7 @@ login
 login.php
 development
 development.log
+phpinfo.php
 
 # JBROFUZZ Lines:
 !
