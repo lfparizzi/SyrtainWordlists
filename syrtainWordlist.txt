@@ -14,6 +14,8 @@ cgi-bin
 cgi-bin/admin.cgi
 login
 login.php
+development
+development.log
 
 # JBROFUZZ Lines:
 !
