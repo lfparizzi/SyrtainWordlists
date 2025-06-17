@@ -9,6 +9,7 @@ flag
 flag.txt
 sitemap.xml
 sitemap.aspx
+sitemap_xml
 cgi-bin
 cgi-bin/admin.cgi
 login
